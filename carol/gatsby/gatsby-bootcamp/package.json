@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "env-cmd": "^9.0.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.17.1"
   },
   "repository": {
